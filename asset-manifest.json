@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pashal88.github.io/goit-react-hw-02-feedback/static/css/main.3d6811d7.css",
-    "main.js": "/pashal88.github.io/goit-react-hw-02-feedback/static/js/main.2143e9cd.js",
-    "index.html": "/pashal88.github.io/goit-react-hw-02-feedback/index.html",
-    "main.3d6811d7.css.map": "/pashal88.github.io/goit-react-hw-02-feedback/static/css/main.3d6811d7.css.map",
-    "main.2143e9cd.js.map": "/pashal88.github.io/goit-react-hw-02-feedback/static/js/main.2143e9cd.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.3d6811d7.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.2143e9cd.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.3d6811d7.css.map": "/goit-react-hw-02-feedback/static/css/main.3d6811d7.css.map",
+    "main.2143e9cd.js.map": "/goit-react-hw-02-feedback/static/js/main.2143e9cd.js.map"
   },
   "entrypoints": [
     "static/css/main.3d6811d7.css",
